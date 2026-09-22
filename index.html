@@ -1,0 +1,167 @@
+<!doctype html>
+<html class="no-js" lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Devenir Français – Préparation à l'entretien d'assimilation</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/app.css">
+  <meta name="description" content="Entraînement QCM pour préparer l'entretien d'assimilation en vue de la naturalisation française.">
+
+  <meta property="og:title" content="Devenir Français – Préparation à l'entretien d'assimilation">
+  <meta property="og:type" content="website">
+
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.png">
+
+  <link rel="manifest" href="site.webmanifest">
+  <meta name="theme-color" content="#0b2e6f">
+</head>
+
+<body>
+  <header class="app-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="./index.html">
+        <span class="brand-flag" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span class="brand-text">
+          <strong>Devenir Français</strong>
+          <small>Préparation à l'entretien d'assimilation</small>
+        </span>
+      </a>
+      <div class="header-meta" id="header-meta" hidden>
+        <span class="chip" id="chip-progress">Question 1 / 20</span>
+        <span class="chip chip-timer" id="chip-timer">30 s</span>
+      </div>
+    </div>
+    <div class="progress-bar" id="progress-bar" hidden><span id="progress-fill"></span></div>
+  </header>
+
+  <main class="wrap" id="main">
+
+    <!-- ACCUEIL -->
+    <section class="screen" id="screen-home">
+      <div class="hero">
+        <p class="eyebrow">Examen blanc officiel-type</p>
+        <h1>Préparez votre entretien de <span class="accent-blue">nat</span><span>ional</span><span class="accent-red">ité</span></h1>
+        <p class="lede">
+          20 questions tirées au sort, réparties équitablement entre les thèmes et les niveaux de
+          difficulté. 30 secondes par question, puis une fiche de correction détaillée avec votre note sur 20.
+        </p>
+
+        <div class="cta-row">
+          <button class="btn btn-primary btn-lg" id="btn-start" type="button">Démarrer un examen</button>
+          <button class="btn btn-ghost" id="btn-toggle-options" type="button">Options</button>
+        </div>
+
+        <div class="options-panel" id="options-panel" hidden>
+          <label class="opt">
+            <span>Temps par question</span>
+            <select id="opt-time">
+              <option value="20">20 secondes</option>
+              <option value="30" selected>30 secondes</option>
+              <option value="45">45 secondes</option>
+              <option value="60">60 secondes</option>
+              <option value="0">Sans limite</option>
+            </select>
+          </label>
+          <label class="opt">
+            <span>Nombre de questions</span>
+            <select id="opt-count">
+              <option value="10">10 questions</option>
+              <option value="20" selected>20 questions</option>
+              <option value="30">30 questions</option>
+            </select>
+          </label>
+          <label class="opt opt-check">
+            <input type="checkbox" id="opt-instant">
+            <span>Afficher la correction après chaque réponse</span>
+          </label>
+        </div>
+
+        <div class="stats-row" id="bank-stats" aria-live="polite"></div>
+      </div>
+
+      <div class="cards" id="theme-cards"></div>
+
+      <div class="notice" id="load-error" hidden>
+        <strong>Impossible de charger la banque de questions.</strong>
+        <p>Le fichier <code>data/questions.js</code> est absent. Régénérez-le avec
+          <code>npm run bank</code>, ou lancez un serveur local
+          (<code>python3 -m http.server 8000</code>).</p>
+      </div>
+    </section>
+
+    <!-- EXAMEN -->
+    <section class="screen" id="screen-quiz" hidden>
+      <article class="question-card">
+        <div class="q-head">
+          <span class="badge badge-theme" id="q-theme">Thème</span>
+          <span class="badge badge-diff" id="q-diff">Niveau</span>
+          <div class="timer-ring" id="timer-ring" role="timer" aria-live="off">
+            <svg viewBox="0 0 44 44" aria-hidden="true">
+              <circle class="ring-bg" cx="22" cy="22" r="19"></circle>
+              <circle class="ring-fg" id="ring-fg" cx="22" cy="22" r="19"></circle>
+            </svg>
+            <span id="timer-text">30</span>
+          </div>
+        </div>
+
+        <h2 class="q-text" id="q-text"></h2>
+        <ul class="choices" id="choices"></ul>
+
+        <div class="feedback" id="feedback" hidden>
+          <p class="feedback-title" id="feedback-title"></p>
+          <p class="feedback-text" id="feedback-text"></p>
+        </div>
+
+        <div class="q-actions">
+          <button class="btn btn-ghost" id="btn-quit" type="button">Abandonner</button>
+          <button class="btn btn-primary" id="btn-next" type="button">Valider</button>
+        </div>
+      </article>
+    </section>
+
+    <!-- RESULTATS -->
+    <section class="screen" id="screen-result" hidden>
+      <div class="result-head">
+        <div class="score-card">
+          <div class="score-ring" id="score-ring">
+            <svg viewBox="0 0 120 120" aria-hidden="true">
+              <circle class="ring-bg" cx="60" cy="60" r="52"></circle>
+              <circle class="ring-fg" id="score-ring-fg" cx="60" cy="60" r="52"></circle>
+            </svg>
+            <div class="score-value"><strong id="score-note">0</strong><span>/ 20</span></div>
+          </div>
+          <div class="score-text">
+            <h2 id="score-title">Fiche de correction</h2>
+            <p id="score-summary"></p>
+            <p class="score-meta" id="score-meta"></p>
+            <div class="cta-row">
+              <button class="btn btn-primary" id="btn-restart" type="button">Nouvel examen</button>
+              <button class="btn btn-ghost" id="btn-review-errors" type="button">Voir mes erreurs</button>
+            </div>
+          </div>
+        </div>
+        <div class="by-theme" id="by-theme"></div>
+      </div>
+
+      <h3 class="section-title">Correction détaillée</h3>
+      <div class="review" id="review"></div>
+    </section>
+
+  </main>
+
+  <footer class="app-footer">
+    <div class="wrap">
+      <p>Outil d'entraînement non officiel. Vérifiez toujours les informations auprès de votre préfecture
+        et des sources officielles (service-public.fr).</p>
+    </div>
+  </footer>
+
+  <script src="data/questions.js"></script>
+  <script src="js/app.js"></script>
+</body>
+
+</html>

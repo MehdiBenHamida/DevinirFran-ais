@@ -1,0 +1,912 @@
+[
+  {
+    "id": "ins-201",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quel tribunal juge la plupart des litiges civils du quotidien en première instance ?",
+    "choix": [
+      "Le tribunal judiciaire",
+      "La Cour de cassation",
+      "Le Conseil constitutionnel",
+      "La Cour des comptes"
+    ],
+    "reponse": 0,
+    "explication": "Le tribunal judiciaire est la juridiction civile de droit commun. Il traite notamment de nombreux litiges entre particuliers."
+  },
+  {
+    "id": "ins-202",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quelle juridiction réexamine une affaire déjà jugée lorsqu'une partie fait appel ?",
+    "choix": [
+      "Le tribunal de police",
+      "La cour d'appel",
+      "Le conseil municipal",
+      "La préfecture"
+    ],
+    "reponse": 1,
+    "explication": "La cour d'appel examine de nouveau les affaires jugées en première instance. C'est l'application du double degré de juridiction."
+  },
+  {
+    "id": "ins-203",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quelle juridiction juge les crimes les plus graves, comme les meurtres ?",
+    "choix": [
+      "Le tribunal administratif",
+      "Le conseil de prud'hommes",
+      "La cour d'assises",
+      "Le tribunal de commerce"
+    ],
+    "reponse": 2,
+    "explication": "La cour d'assises juge les crimes. Elle comprend des magistrats professionnels et, en principe, des jurés populaires."
+  },
+  {
+    "id": "ins-204",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quel principe signifie qu'une personne est considérée non coupable tant qu'elle n'a pas été condamnée ?",
+    "choix": [
+      "La séparation des pouvoirs",
+      "La continuité du service",
+      "La publicité des débats",
+      "La présomption d'innocence"
+    ],
+    "reponse": 3,
+    "explication": "La présomption d'innocence protège toute personne poursuivie. Sa culpabilité doit être établie par la justice."
+  },
+  {
+    "id": "ins-205",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quel professionnel du droit conseille et défend une personne devant la justice ?",
+    "choix": [
+      "L'avocat",
+      "Le préfet",
+      "Le maire",
+      "Le député"
+    ],
+    "reponse": 0,
+    "explication": "L'avocat assiste, conseille et représente son client. Il contribue au respect des droits de la défense."
+  },
+  {
+    "id": "ins-206",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quel juge intervient notamment pour le divorce, l'autorité parentale et la pension alimentaire ?",
+    "choix": [
+      "Le juge des enfants",
+      "Le juge aux affaires familiales",
+      "Le juge d'instruction",
+      "Le juge de l'exécution"
+    ],
+    "reponse": 1,
+    "explication": "Le juge aux affaires familiales traite les conflits familiaux. Il intervient notamment en matière de divorce, d'enfants et de pensions."
+  },
+  {
+    "id": "ins-207",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quelle institution peut être saisie en cas de discrimination ou de difficulté avec un service public ?",
+    "choix": [
+      "La Cour de cassation",
+      "La Cour des comptes",
+      "Le Défenseur des droits",
+      "Le Sénat"
+    ],
+    "reponse": 2,
+    "explication": "Le Défenseur des droits protège les droits et libertés. Il peut intervenir notamment contre les discriminations et les difficultés avec l'administration."
+  },
+  {
+    "id": "ins-208",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quelle autorité protège les données personnelles et veille au respect de la vie privée numérique ?",
+    "choix": [
+      "La Cour d'appel",
+      "Le Conseil d'État",
+      "La Cour d'assises",
+      "La CNIL"
+    ],
+    "reponse": 3,
+    "explication": "La CNIL est la Commission nationale de l'informatique et des libertés. Elle veille à la protection des données personnelles."
+  },
+  {
+    "id": "ins-209",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quelle juridiction contrôle principalement les comptes publics et l'usage de l'argent public ?",
+    "choix": [
+      "La Cour des comptes",
+      "Le tribunal de police",
+      "Le conseil régional",
+      "Le Conseil constitutionnel"
+    ],
+    "reponse": 0,
+    "explication": "La Cour des comptes contrôle la régularité et la bonne gestion des comptes publics. Elle informe aussi les citoyens par ses rapports."
+  },
+  {
+    "id": "ins-210",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quelle assemblée élue administre une commune ?",
+    "choix": [
+      "Le conseil départemental",
+      "Le conseil municipal",
+      "Le conseil régional",
+      "Le conseil constitutionnel"
+    ],
+    "reponse": 1,
+    "explication": "La commune est administrée par le conseil municipal. Ses membres sont élus par les habitants inscrits sur les listes électorales."
+  },
+  {
+    "id": "ins-211",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Qui élit le maire dans une commune française ?",
+    "choix": [
+      "Les députés de la circonscription",
+      "Le préfet du département",
+      "Le conseil municipal",
+      "Les sénateurs de la région"
+    ],
+    "reponse": 2,
+    "explication": "Après les élections municipales, le conseil municipal élit le maire et ses adjoints. Le maire est donc choisi par les conseillers municipaux."
+  },
+  {
+    "id": "ins-212",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quelle fonction le maire exerce-t-il pour enregistrer les naissances, mariages et décès ?",
+    "choix": [
+      "Comptable public",
+      "Juge administratif",
+      "Chef de juridiction",
+      "Officier d'état civil"
+    ],
+    "reponse": 3,
+    "explication": "Le maire est officier d'état civil. À ce titre, il enregistre les actes de naissance, de mariage et de décès."
+  },
+  {
+    "id": "ins-213",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quelle collectivité territoriale est administrée par un conseil départemental ?",
+    "choix": [
+      "Le département",
+      "La commune",
+      "La région",
+      "L'arrondissement"
+    ],
+    "reponse": 0,
+    "explication": "Le département est une collectivité territoriale. Il est administré par un conseil départemental élu."
+  },
+  {
+    "id": "ins-214",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quelle collectivité territoriale est administrée par un conseil régional ?",
+    "choix": [
+      "La commune",
+      "La région",
+      "Le canton",
+      "Le quartier"
+    ],
+    "reponse": 1,
+    "explication": "La région est administrée par le conseil régional. Ses membres sont élus lors des élections régionales."
+  },
+  {
+    "id": "ins-215",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quel représentant de l'État dirige les services de l'État dans un département ?",
+    "choix": [
+      "Le maire",
+      "Le président du Sénat",
+      "Le préfet",
+      "Le procureur général"
+    ],
+    "reponse": 2,
+    "explication": "Le préfet représente l'État dans le département. Il coordonne les services déconcentrés de l'État."
+  },
+  {
+    "id": "ins-216",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Dans quel lieu un électeur se rend-il pour voter le jour d'une élection ?",
+    "choix": [
+      "Au tribunal judiciaire",
+      "À la préfecture régionale",
+      "À la cour d'appel",
+      "Au bureau de vote"
+    ],
+    "reponse": 3,
+    "explication": "Le vote se déroule dans un bureau de vote. C'est le lieu où l'électeur émarge et dépose son bulletin dans l'urne."
+  },
+  {
+    "id": "ins-217",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "À quoi sert l'isoloir dans un bureau de vote ?",
+    "choix": [
+      "À garantir le secret du vote",
+      "À vérifier les impôts locaux",
+      "À contrôler les candidatures",
+      "À compter les abstentions"
+    ],
+    "reponse": 0,
+    "explication": "L'isoloir permet à l'électeur de choisir son bulletin à l'abri des regards. Il protège le secret du vote."
+  },
+  {
+    "id": "ins-218",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Comment appelle-t-on le fait de ne pas aller voter lors d'une élection ?",
+    "choix": [
+      "Le vote nul",
+      "L'abstention",
+      "La procuration",
+      "Le référendum"
+    ],
+    "reponse": 1,
+    "explication": "L'abstention désigne le fait de ne pas participer au vote. Elle est mesurée parmi les électeurs inscrits."
+  },
+  {
+    "id": "ins-219",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quel document confirme l'inscription d'un citoyen sur les listes électorales ?",
+    "choix": [
+      "Le livret de famille",
+      "Le passeport diplomatique",
+      "La carte d'électeur",
+      "Le casier judiciaire"
+    ],
+    "reponse": 2,
+    "explication": "La carte d'électeur atteste l'inscription sur les listes électorales. Pour voter, une pièce d'identité peut aussi être demandée selon la commune."
+  },
+  {
+    "id": "ins-220",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quel mécanisme permet à un électeur absent de faire voter une autre personne à sa place ?",
+    "choix": [
+      "Le panachage",
+      "Le tirage au sort",
+      "Le vote blanc",
+      "La procuration"
+    ],
+    "reponse": 3,
+    "explication": "La procuration permet à un électeur de désigner un autre électeur pour voter en son nom. Elle doit être établie selon les règles prévues."
+  },
+  {
+    "id": "ins-221",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quelle élection permet de choisir les conseillers municipaux ?",
+    "choix": [
+      "L'élection municipale",
+      "L'élection présidentielle",
+      "L'élection sénatoriale",
+      "L'élection européenne"
+    ],
+    "reponse": 0,
+    "explication": "Les élections municipales servent à élire les conseillers municipaux. Ceux-ci élisent ensuite le maire."
+  },
+  {
+    "id": "ins-222",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quelle élection permet de choisir les députés à l'Assemblée nationale ?",
+    "choix": [
+      "L'élection régionale",
+      "L'élection législative",
+      "L'élection municipale",
+      "L'élection prud'homale"
+    ],
+    "reponse": 1,
+    "explication": "Les élections législatives permettent d'élire les députés. Les députés siègent à l'Assemblée nationale."
+  },
+  {
+    "id": "ins-223",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quel principe du service public impose de traiter les usagers sans discrimination ?",
+    "choix": [
+      "La rentabilité",
+      "La concurrence",
+      "L'égalité",
+      "La spécialité pénale"
+    ],
+    "reponse": 2,
+    "explication": "Le principe d'égalité impose un traitement égal des usagers placés dans une situation comparable. Il interdit les discriminations injustifiées."
+  },
+  {
+    "id": "ins-224",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quel principe exige qu'un service public essentiel fonctionne de manière régulière ?",
+    "choix": [
+      "La proportionnalité des peines",
+      "La majorité absolue",
+      "La collégialité municipale",
+      "La continuité"
+    ],
+    "reponse": 3,
+    "explication": "La continuité est un principe du service public. Elle signifie que le service doit fonctionner de façon régulière, même si des adaptations sont possibles."
+  },
+  {
+    "id": "ins-225",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quel principe impose aux agents publics de ne pas favoriser une opinion politique ou religieuse ?",
+    "choix": [
+      "La neutralité",
+      "La coutume locale",
+      "La préférence nationale",
+      "La publicité électorale"
+    ],
+    "reponse": 0,
+    "explication": "La neutralité impose aux agents publics de servir tous les usagers impartialement. Elle est liée à la laïcité du service public."
+  },
+  {
+    "id": "ins-226",
+    "theme": "institutions",
+    "difficulte": "facile",
+    "question": "Quel principe permet au service public d'évoluer avec les besoins de la société ?",
+    "choix": [
+      "La souveraineté monétaire",
+      "L'adaptabilité",
+      "L'inamovibilité électorale",
+      "Le cumul obligatoire"
+    ],
+    "reponse": 1,
+    "explication": "L'adaptabilité signifie que le service public peut évoluer. Il doit tenir compte des changements techniques, sociaux et des besoins des usagers."
+  },
+  {
+    "id": "ins-227",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Quel est le rôle principal de la Cour de cassation dans l'ordre judiciaire ?",
+    "choix": [
+      "Rejuger tous les faits d'une affaire",
+      "Élire les magistrats locaux",
+      "Contrôler la bonne application du droit",
+      "Nommer les jurés populaires"
+    ],
+    "reponse": 2,
+    "explication": "La Cour de cassation ne rejugе pas les faits. Elle vérifie que les juges ont correctement appliqué la règle de droit."
+  },
+  {
+    "id": "ins-228",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Quelle juridiction juge surtout les contraventions les moins graves ?",
+    "choix": [
+      "La cour d'assises",
+      "Le tribunal administratif",
+      "La Cour des comptes",
+      "Le tribunal de police"
+    ],
+    "reponse": 3,
+    "explication": "Le tribunal de police juge les contraventions. Les infractions plus graves relèvent d'autres juridictions pénales."
+  },
+  {
+    "id": "ins-229",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Quelle juridiction tranche les litiges entre les particuliers et l'administration ?",
+    "choix": [
+      "Le tribunal administratif",
+      "Le conseil de prud'hommes",
+      "La cour d'assises",
+      "Le tribunal de police"
+    ],
+    "reponse": 0,
+    "explication": "Le tribunal administratif appartient à l'ordre administratif. Il juge notamment les litiges entre les administrés et les administrations."
+  },
+  {
+    "id": "ins-230",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Quelle juridiction règle les litiges individuels entre salariés et employeurs privés ?",
+    "choix": [
+      "Le tribunal judiciaire",
+      "Le conseil de prud'hommes",
+      "Le Conseil d'État",
+      "La cour d'assises"
+    ],
+    "reponse": 1,
+    "explication": "Le conseil de prud'hommes traite les conflits individuels liés au contrat de travail de droit privé. Il réunit des conseillers issus du monde du travail."
+  },
+  {
+    "id": "ins-231",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "À quoi sert l'aide juridictionnelle ?",
+    "choix": [
+      "À remplacer le juge par un médiateur",
+      "À accélérer automatiquement le procès",
+      "À aider financièrement une personne à accéder à la justice",
+      "À supprimer les frais d'amende"
+    ],
+    "reponse": 2,
+    "explication": "L'aide juridictionnelle prend en charge tout ou partie des frais de justice pour les personnes ayant de faibles ressources. Elle facilite l'accès au juge."
+  },
+  {
+    "id": "ins-232",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Que signifie le principe de publicité des débats judiciaires ?",
+    "choix": [
+      "Les jugements sont toujours diffusés à la télévision",
+      "Les avocats publient leurs dossiers en ligne",
+      "Les jurés annoncent leur vote publiquement",
+      "Les audiences sont en principe ouvertes au public"
+    ],
+    "reponse": 3,
+    "explication": "La publicité des débats permet au public d'assister aux audiences. Des exceptions existent, par exemple pour protéger des mineurs ou la vie privée."
+  },
+  {
+    "id": "ins-233",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Quel magistrat représente la société et dirige l'action publique devant les juridictions pénales ?",
+    "choix": [
+      "Le procureur de la République",
+      "Le juge aux affaires familiales",
+      "Le greffier en chef",
+      "Le président du conseil régional"
+    ],
+    "reponse": 0,
+    "explication": "Le procureur de la République appartient au ministère public. Il décide des poursuites et représente les intérêts de la société."
+  },
+  {
+    "id": "ins-234",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Quel juge conduit les investigations dans certaines affaires pénales complexes ?",
+    "choix": [
+      "Le juge des libertés",
+      "Le juge d'instruction",
+      "Le juge de paix",
+      "Le juge consulaire"
+    ],
+    "reponse": 1,
+    "explication": "Le juge d'instruction mène l'information judiciaire dans les affaires qui le nécessitent. Il instruit à charge et à décharge."
+  },
+  {
+    "id": "ins-235",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Quel juge intervient pour protéger les mineurs en danger ou juger certains mineurs délinquants ?",
+    "choix": [
+      "Le juge administratif",
+      "Le juge fiscal",
+      "Le juge des enfants",
+      "Le juge électoral"
+    ],
+    "reponse": 2,
+    "explication": "Le juge des enfants intervient en assistance éducative pour les mineurs en danger. Il intervient aussi dans la justice pénale des mineurs."
+  },
+  {
+    "id": "ins-236",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Combien de membres nommés compose le Conseil constitutionnel, hors anciens présidents de la République membres de droit ?",
+    "choix": [
+      "Six membres",
+      "Huit membres",
+      "Douze membres",
+      "Neuf membres"
+    ],
+    "reponse": 3,
+    "explication": "Le Conseil constitutionnel comprend neuf membres nommés. Ils sont désignés par le président de la République et les présidents des deux assemblées."
+  },
+  {
+    "id": "ins-237",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Quelle est la durée du mandat des membres nommés du Conseil constitutionnel ?",
+    "choix": [
+      "Neuf ans",
+      "Cinq ans",
+      "Six ans",
+      "Douze ans"
+    ],
+    "reponse": 0,
+    "explication": "Les membres nommés du Conseil constitutionnel exercent un mandat de neuf ans. Ce mandat n'est pas renouvelable."
+  },
+  {
+    "id": "ins-238",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Qui nomme les membres du Conseil constitutionnel ?",
+    "choix": [
+      "Les préfets et les maires",
+      "Le président de la République et les présidents des deux assemblées",
+      "Les électeurs par scrutin direct",
+      "La Cour de cassation seule"
+    ],
+    "reponse": 1,
+    "explication": "Trois membres sont nommés par le président de la République, trois par le président de l'Assemblée nationale et trois par le président du Sénat. Cette répartition concerne les neuf membres nommés."
+  },
+  {
+    "id": "ins-239",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Que permet une question prioritaire de constitutionnalité ?",
+    "choix": [
+      "Choisir directement un ministre",
+      "Annuler automatiquement une élection locale",
+      "Contester la conformité d'une loi aux droits et libertés constitutionnels",
+      "Remplacer un référendum national"
+    ],
+    "reponse": 2,
+    "explication": "La question prioritaire de constitutionnalité permet à un justiciable de contester une loi déjà applicable. Le contrôle porte sur les droits et libertés garantis par la Constitution."
+  },
+  {
+    "id": "ins-240",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Quelle institution contrôle la régularité de l'élection présidentielle et des référendums nationaux ?",
+    "choix": [
+      "La Cour des comptes",
+      "Le Conseil d'État",
+      "La CNIL",
+      "Le Conseil constitutionnel"
+    ],
+    "reponse": 3,
+    "explication": "Le Conseil constitutionnel veille à la régularité de l'élection présidentielle. Il contrôle aussi les référendums nationaux et proclame leurs résultats."
+  },
+  {
+    "id": "ins-241",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Quelle collectivité est principalement responsable des collèges publics ?",
+    "choix": [
+      "Le département",
+      "La commune",
+      "La région",
+      "L'État européen"
+    ],
+    "reponse": 0,
+    "explication": "Le département est chargé notamment de la construction, de l'entretien et du fonctionnement matériel des collèges publics. L'enseignement lui-même relève de l'État."
+  },
+  {
+    "id": "ins-242",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Quelle collectivité est principalement responsable des lycées publics ?",
+    "choix": [
+      "La commune",
+      "La région",
+      "Le département",
+      "L'arrondissement"
+    ],
+    "reponse": 1,
+    "explication": "La région est chargée notamment des lycées publics. Elle s'occupe de leur construction, entretien et fonctionnement matériel."
+  },
+  {
+    "id": "ins-243",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Quelle collectivité est principalement responsable des écoles maternelles et élémentaires publiques ?",
+    "choix": [
+      "La région",
+      "Le département",
+      "La commune",
+      "Le canton"
+    ],
+    "reponse": 2,
+    "explication": "La commune est responsable des écoles publiques du premier degré pour les bâtiments et le fonctionnement matériel. L'État reste responsable des enseignants."
+  },
+  {
+    "id": "ins-244",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Quelle collectivité joue un rôle majeur en matière d'action sociale, notamment pour l'aide aux personnes âgées ou handicapées ?",
+    "choix": [
+      "La commune uniquement",
+      "La région uniquement",
+      "Le Sénat",
+      "Le département"
+    ],
+    "reponse": 3,
+    "explication": "Le département est un acteur central de l'action sociale. Il intervient notamment pour l'aide sociale à l'enfance, les personnes âgées et les personnes handicapées."
+  },
+  {
+    "id": "ins-245",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "À quoi sert l'intercommunalité ?",
+    "choix": [
+      "À permettre à plusieurs communes de gérer ensemble certains services",
+      "À supprimer automatiquement les conseils municipaux",
+      "À remplacer les départements par des cantons",
+      "À élire directement le président de la République"
+    ],
+    "reponse": 0,
+    "explication": "L'intercommunalité permet à des communes de se regrouper pour exercer des compétences en commun. Elle concerne par exemple les transports, les déchets ou l'aménagement."
+  },
+  {
+    "id": "ins-246",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Quel est le rôle des services déconcentrés de l'État ?",
+    "choix": [
+      "Voter les lois nationales",
+      "Appliquer localement les politiques de l'État",
+      "Juger les crimes devant un jury",
+      "Contrôler les partis politiques"
+    ],
+    "reponse": 1,
+    "explication": "Les services déconcentrés représentent les ministères sur le territoire. Ils appliquent localement les politiques décidées par l'État."
+  },
+  {
+    "id": "ins-247",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Quel mode de scrutin attribue les sièges en fonction du pourcentage de voix obtenu par les listes ?",
+    "choix": [
+      "Le scrutin nominal pur",
+      "Le scrutin censitaire",
+      "Le scrutin proportionnel",
+      "Le tirage au sort civique"
+    ],
+    "reponse": 2,
+    "explication": "Le scrutin proportionnel répartit les sièges selon les voix obtenues par chaque liste. Il favorise la représentation de plusieurs courants politiques."
+  },
+  {
+    "id": "ins-248",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "Quel type de bulletin est généralement considéré comme un vote nul ?",
+    "choix": [
+      "Une enveloppe contenant un bulletin officiel unique",
+      "Une enveloppe déposée après passage par l'isoloir",
+      "Une enveloppe correspondant au bon bureau",
+      "Un bulletin déchiré ou comportant des signes de reconnaissance"
+    ],
+    "reponse": 3,
+    "explication": "Un vote nul ne peut pas être valablement compté pour un candidat ou une liste. Un bulletin annoté, déchiré ou irrégulier peut être déclaré nul."
+  },
+  {
+    "id": "ins-249",
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "question": "À quoi sert un référendum ?",
+    "choix": [
+      "À consulter directement les électeurs sur une question ou un texte",
+      "À nommer les membres du gouvernement",
+      "À choisir les magistrats d'un tribunal",
+      "À fixer les notes des concours publics"
+    ],
+    "reponse": 0,
+    "explication": "Le référendum permet aux électeurs de répondre directement à une question. Il peut porter sur certains textes ou décisions prévus par la Constitution."
+  },
+  {
+    "id": "ins-250",
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "question": "Quel principe protège les juges contre les pressions des autres pouvoirs dans leurs décisions ?",
+    "choix": [
+      "La tutelle préfectorale",
+      "L'indépendance de la justice",
+      "La solidarité gouvernementale",
+      "La discipline budgétaire"
+    ],
+    "reponse": 1,
+    "explication": "L'indépendance de la justice garantit que les magistrats jugent selon le droit et leur conscience. Elle protège la fonction de juger contre les pressions extérieures."
+  },
+  {
+    "id": "ins-251",
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "question": "Que signifie le double degré de juridiction ?",
+    "choix": [
+      "Toute décision est rendue par deux juges le même jour",
+      "Un procès pénal comporte toujours deux jurys",
+      "Une affaire peut en principe être réexaminée par une juridiction supérieure",
+      "Le Parlement vote deux fois chaque loi"
+    ],
+    "reponse": 2,
+    "explication": "Le double degré de juridiction permet généralement de faire appel d'une décision. L'affaire est alors réexaminée par une juridiction supérieure."
+  },
+  {
+    "id": "ins-252",
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "question": "Que signifie la gratuité de la justice en France ?",
+    "choix": [
+      "Les avocats sont toujours payés par l'État",
+      "Les amendes pénales sont supprimées",
+      "Les expertises privées sont gratuites",
+      "Les juges ne sont pas rémunérés par les parties"
+    ],
+    "reponse": 3,
+    "explication": "La gratuité de la justice signifie notamment que les justiciables ne paient pas les juges. Des frais peuvent toutefois rester à la charge des parties, comme les honoraires d'avocat."
+  },
+  {
+    "id": "ins-253",
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "question": "Quel est le sommet de l'ordre administratif français ?",
+    "choix": [
+      "Le Conseil d'État",
+      "La Cour de cassation",
+      "La cour d'appel",
+      "Le tribunal judiciaire"
+    ],
+    "reponse": 0,
+    "explication": "Le Conseil d'État est la juridiction suprême de l'ordre administratif. Il juge notamment certains recours contre les décisions administratives."
+  },
+  {
+    "id": "ins-254",
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "question": "Quel contrôle le Conseil constitutionnel exerce-t-il sur les lois avant leur promulgation ?",
+    "choix": [
+      "Un contrôle de leur opportunité politique",
+      "Un contrôle de constitutionnalité",
+      "Un contrôle de leur rentabilité financière",
+      "Un contrôle de leur popularité électorale"
+    ],
+    "reponse": 1,
+    "explication": "Le Conseil constitutionnel peut vérifier qu'une loi respecte la Constitution avant sa promulgation. Il ne juge pas l'opportunité politique de la loi."
+  },
+  {
+    "id": "ins-255",
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "question": "Comment le renouvellement des membres nommés du Conseil constitutionnel est-il organisé ?",
+    "choix": [
+      "Tous les membres sont remplacés chaque année",
+      "Le renouvellement dépend d'un tirage au sort mensuel",
+      "Il se fait par tiers tous les trois ans",
+      "Il suit chaque élection municipale"
+    ],
+    "reponse": 2,
+    "explication": "Les membres nommés du Conseil constitutionnel ont un mandat de neuf ans. Le renouvellement s'effectue par tiers tous les trois ans."
+  },
+  {
+    "id": "ins-256",
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "question": "Quelle juridiction intervient comme filtre avant qu'une question prioritaire de constitutionnalité soit transmise au Conseil constitutionnel ?",
+    "choix": [
+      "La Cour des comptes uniquement",
+      "Le conseil municipal",
+      "Le tribunal de police",
+      "Le Conseil d'État ou la Cour de cassation"
+    ],
+    "reponse": 3,
+    "explication": "Une QPC est d'abord examinée par la juridiction saisie, puis éventuellement par le Conseil d'État ou la Cour de cassation. Ces juridictions suprêmes peuvent la transmettre au Conseil constitutionnel."
+  },
+  {
+    "id": "ins-257",
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "question": "Quelle institution peut contrôler les lieux de privation de liberté grâce à une autorité indépendante spécialisée intégrée à ses missions ?",
+    "choix": [
+      "Le Défenseur des droits",
+      "La CNIL",
+      "Le Conseil régional",
+      "Le tribunal de commerce"
+    ],
+    "reponse": 0,
+    "explication": "Le Contrôleur général des lieux de privation de liberté a été intégré au Défenseur des droits. Cette mission vise à protéger les droits des personnes privées de liberté."
+  },
+  {
+    "id": "ins-258",
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "question": "Dans quel cas la CNIL peut-elle intervenir auprès d'un organisme ?",
+    "choix": [
+      "Pour choisir son conseil d'administration",
+      "Pour contrôler le respect des règles sur les données personnelles",
+      "Pour fixer le montant des impôts locaux",
+      "Pour nommer les magistrats administratifs"
+    ],
+    "reponse": 1,
+    "explication": "La CNIL peut contrôler les traitements de données personnelles. Elle peut conseiller, mettre en demeure ou sanctionner selon les cas prévus par la loi."
+  },
+  {
+    "id": "ins-259",
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "question": "Quel est le rôle principal du préfet à l'égard des actes des collectivités territoriales ?",
+    "choix": [
+      "Les rédiger à la place des élus",
+      "Les voter avant leur publication",
+      "Exercer le contrôle de légalité",
+      "Les annuler seul sans juge"
+    ],
+    "reponse": 2,
+    "explication": "Le préfet exerce le contrôle de légalité sur les actes des collectivités territoriales. S'il estime un acte illégal, il peut saisir le juge administratif."
+  },
+  {
+    "id": "ins-260",
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "question": "Quelle affirmation décrit correctement le vote blanc en France ?",
+    "choix": [
+      "Il est automatiquement ajouté au candidat arrivé en tête",
+      "Il annule tous les suffrages exprimés du bureau",
+      "Il remplace une procuration non utilisée",
+      "Il est décompté séparément mais n'est pas un suffrage exprimé"
+    ],
+    "reponse": 3,
+    "explication": "Le vote blanc est comptabilisé séparément des votes nuls. Il n'est pas pris en compte dans les suffrages exprimés."
+  },
+  {
+    "id": "ins-261",
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "question": "Quelle élection française utilise un scrutin majoritaire uninominal à deux tours ?",
+    "choix": [
+      "L'élection législative",
+      "L'élection européenne",
+      "L'élection régionale",
+      "L'élection municipale dans les grandes communes"
+    ],
+    "reponse": 0,
+    "explication": "Les députés sont élus dans des circonscriptions au scrutin majoritaire uninominal à deux tours. Ce mode de scrutin désigne un élu par circonscription."
+  },
+  {
+    "id": "ins-262",
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "question": "Pour quelle durée les conseillers régionaux sont-ils élus ?",
+    "choix": [
+      "Quatre ans",
+      "Six ans",
+      "Sept ans",
+      "Neuf ans"
+    ],
+    "reponse": 1,
+    "explication": "Les conseillers régionaux sont élus pour six ans. Ils siègent au conseil régional de leur région."
+  },
+  {
+    "id": "ins-263",
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "question": "Quelle affirmation sur l'inscription sur les listes électorales est correcte ?",
+    "choix": [
+      "Elle se fait uniquement le jour du vote",
+      "Elle est réservée aux propriétaires",
+      "Elle est nécessaire pour pouvoir voter",
+      "Elle remplace la nationalité française"
+    ],
+    "reponse": 2,
+    "explication": "Pour voter, il faut être inscrit sur les listes électorales de sa commune ou de son consulat. L'inscription permet d'être rattaché à un bureau de vote."
+  },
+  {
+    "id": "ins-264",
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "question": "Quelle règle caractérise le secret du vote ?",
+    "choix": [
+      "L'électeur doit montrer son bulletin au président du bureau",
+      "Le vote doit être annoncé oralement aux assesseurs",
+      "Les bulletins sont signés par les électeurs",
+      "Personne ne doit pouvoir connaître le choix de l'électeur"
+    ],
+    "reponse": 3,
+    "explication": "Le secret du vote garantit la liberté de l'électeur. L'isoloir, l'enveloppe et l'urne contribuent à protéger ce secret."
+  },
+  {
+    "id": "ins-265",
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "question": "Quelle obligation s'impose à un fonctionnaire dans l'exercice d'un service public ?",
+    "choix": [
+      "Servir l'intérêt général avec impartialité",
+      "Soutenir publiquement un parti au guichet",
+      "Refuser les usagers sans motif légal",
+      "Adapter la loi selon ses préférences"
+    ],
+    "reponse": 0,
+    "explication": "Un fonctionnaire doit servir l'intérêt général et respecter ses obligations professionnelles. L'impartialité et la neutralité s'imposent dans le service public."
+  }
+]

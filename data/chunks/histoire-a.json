@@ -1,0 +1,912 @@
+[
+  {
+    "id": "his-101",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Comment appelait-on le territoire correspondant en grande partie à la France actuelle avant la conquête romaine ?",
+    "choix": [
+      "La Gaule",
+      "La Germanie",
+      "La Bretagne",
+      "La Dacie"
+    ],
+    "reponse": 0,
+    "explication": "Avant la conquête romaine, une grande partie du territoire de la France actuelle était appelée la Gaule. Elle était peuplée de nombreux peuples gaulois, sans former un État unique."
+  },
+  {
+    "id": "his-102",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Qui dirigea la résistance gauloise contre Jules César avant la défaite d'Alésia ?",
+    "choix": [
+      "Clovis",
+      "Vercingétorix",
+      "Charlemagne",
+      "Hugues Capet"
+    ],
+    "reponse": 1,
+    "explication": "Vercingétorix, chef arverne, rassembla une partie des peuples gaulois contre Jules César. Il fut vaincu à Alésia en 52 av. J.-C."
+  },
+  {
+    "id": "his-103",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "En quelle année la bataille d'Alésia opposa-t-elle Vercingétorix à Jules César ?",
+    "choix": [
+      "58 av. J.-C.",
+      "55 av. J.-C.",
+      "52 av. J.-C.",
+      "49 av. J.-C."
+    ],
+    "reponse": 2,
+    "explication": "La bataille d'Alésia eut lieu en 52 av. J.-C. Elle marque la victoire décisive de César dans la guerre des Gaules."
+  },
+  {
+    "id": "his-104",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quel général romain conquit la Gaule au Ier siècle avant J.-C. ?",
+    "choix": [
+      "Auguste",
+      "Pompée",
+      "Néron",
+      "Jules César"
+    ],
+    "reponse": 3,
+    "explication": "Jules César mena la guerre des Gaules entre 58 et 51 av. J.-C. Cette conquête intégra progressivement la Gaule au monde romain."
+  },
+  {
+    "id": "his-105",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quel nom romain portait la ville de Lyon dans l'Antiquité ?",
+    "choix": [
+      "Lugdunum",
+      "Massilia",
+      "Nemausus",
+      "Burdigala"
+    ],
+    "reponse": 0,
+    "explication": "Lyon s'appelait Lugdunum à l'époque romaine. Fondée en 43 av. J.-C., elle devint une ville majeure de la Gaule romaine."
+  },
+  {
+    "id": "his-106",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "À quoi servait principalement le pont du Gard dans la Gaule romaine ?",
+    "choix": [
+      "À défendre une frontière",
+      "À conduire de l'eau",
+      "À accueillir des combats",
+      "À frapper la monnaie"
+    ],
+    "reponse": 1,
+    "explication": "Le pont du Gard est un aqueduc romain. Il servait à transporter l'eau vers la ville antique de Nîmes."
+  },
+  {
+    "id": "his-107",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Dans quelle ville peut-on voir de célèbres arènes romaines encore conservées ?",
+    "choix": [
+      "Tours",
+      "Rouen",
+      "Nîmes",
+      "Dijon"
+    ],
+    "reponse": 2,
+    "explication": "Les arènes de Nîmes sont un amphithéâtre romain très bien conservé. Elles témoignent de l'importance de la culture urbaine romaine en Gaule."
+  },
+  {
+    "id": "his-108",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quelle langue s'imposa progressivement en Gaule après la conquête romaine ?",
+    "choix": [
+      "Le grec",
+      "Le gaulois",
+      "Le francique",
+      "Le latin"
+    ],
+    "reponse": 3,
+    "explication": "Après la conquête, le latin se diffusa dans l'administration, l'armée et les villes. Il est à l'origine des langues romanes, dont le français."
+  },
+  {
+    "id": "his-109",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quel peuple germanique donna son nom à la France ?",
+    "choix": [
+      "Les Francs",
+      "Les Wisigoths",
+      "Les Vandales",
+      "Les Huns"
+    ],
+    "reponse": 0,
+    "explication": "Les Francs s'installèrent en Gaule à la fin de l'Antiquité. Leur nom est à l'origine de celui de la France."
+  },
+  {
+    "id": "his-110",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quel roi des Francs fut baptisé à Reims par l'évêque Rémi ?",
+    "choix": [
+      "Pépin le Bref",
+      "Clovis",
+      "Dagobert",
+      "Charles Martel"
+    ],
+    "reponse": 1,
+    "explication": "Clovis fut baptisé à Reims par l'évêque Rémi, selon la tradition. Ce baptême renforça l'alliance entre la royauté franque et l'Église catholique."
+  },
+  {
+    "id": "his-111",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quelle dynastie Clovis fonda-t-il chez les rois francs ?",
+    "choix": [
+      "Les Carolingiens",
+      "Les Capétiens",
+      "Les Mérovingiens",
+      "Les Valois"
+    ],
+    "reponse": 2,
+    "explication": "Clovis appartient à la dynastie mérovingienne. Les Mérovingiens régnèrent sur les royaumes francs jusqu'au VIIIe siècle."
+  },
+  {
+    "id": "his-112",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Vers quelle date situe-t-on traditionnellement le baptême de Clovis ?",
+    "choix": [
+      "451",
+      "476",
+      "732",
+      "496"
+    ],
+    "reponse": 3,
+    "explication": "Le baptême de Clovis est traditionnellement situé vers 496. La date exacte reste discutée par les historiens."
+  },
+  {
+    "id": "his-113",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Qui remporta la bataille de Poitiers contre des troupes musulmanes en 732 ?",
+    "choix": [
+      "Charles Martel",
+      "Charlemagne",
+      "Louis IX",
+      "Philippe Auguste"
+    ],
+    "reponse": 0,
+    "explication": "Charles Martel remporta la bataille de Poitiers en 732. Cette victoire consolida le pouvoir des maires du palais francs."
+  },
+  {
+    "id": "his-114",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quel titre portait Charles Martel dans le royaume franc ?",
+    "choix": [
+      "Empereur romain",
+      "Maire du palais",
+      "Duc de Normandie",
+      "Roi capétien"
+    ],
+    "reponse": 1,
+    "explication": "Charles Martel n'était pas roi : il était maire du palais. Cette fonction lui donnait un pouvoir politique et militaire considérable."
+  },
+  {
+    "id": "his-115",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quel souverain carolingien fut couronné empereur à Rome en l'an 800 ?",
+    "choix": [
+      "Clotaire II",
+      "Pépin le Bref",
+      "Charlemagne",
+      "Louis le Pieux"
+    ],
+    "reponse": 2,
+    "explication": "Charlemagne fut couronné empereur à Rome le 25 décembre 800 par le pape Léon III. Ce couronnement symbolisa le renouveau de l'Empire en Occident."
+  },
+  {
+    "id": "his-116",
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "question": "Quel pape couronna Charlemagne empereur en 800 ?",
+    "choix": [
+      "Grégoire Ier",
+      "Urbain II",
+      "Innocent III",
+      "Léon III"
+    ],
+    "reponse": 3,
+    "explication": "Le pape Léon III couronna Charlemagne empereur à Rome. La cérémonie eut lieu dans la basilique Saint-Pierre le 25 décembre 800."
+  },
+  {
+    "id": "his-117",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quel traité partagea l'empire de Charlemagne entre ses petits-fils en 843 ?",
+    "choix": [
+      "Le traité de Verdun",
+      "Le traité de Troyes",
+      "Le traité de Paris",
+      "Le traité de Brétigny"
+    ],
+    "reponse": 0,
+    "explication": "Le traité de Verdun fut conclu en 843. Il partagea l'empire carolingien entre les trois petits-fils de Charlemagne."
+  },
+  {
+    "id": "his-118",
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "question": "Qui reçut la Francie occidentale lors du traité de Verdun ?",
+    "choix": [
+      "Lothaire Ier",
+      "Charles le Chauve",
+      "Louis le Germanique",
+      "Pépin d'Aquitaine"
+    ],
+    "reponse": 1,
+    "explication": "Charles le Chauve reçut la Francie occidentale en 843. Ce territoire est souvent présenté comme un ancêtre politique du royaume de France."
+  },
+  {
+    "id": "his-119",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quel roi élu en 987 inaugura la dynastie capétienne ?",
+    "choix": [
+      "Louis VI",
+      "Philippe le Bel",
+      "Hugues Capet",
+      "Charles le Simple"
+    ],
+    "reponse": 2,
+    "explication": "Hugues Capet fut élu roi en 987. Son accession au trône marque le début de la dynastie capétienne."
+  },
+  {
+    "id": "his-120",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quelle dynastie régna directement sur le royaume de France après l'élection d'Hugues Capet ?",
+    "choix": [
+      "Les Mérovingiens",
+      "Les Carolingiens",
+      "Les Bourbons",
+      "Les Capétiens"
+    ],
+    "reponse": 3,
+    "explication": "Les Capétiens succédèrent aux Carolingiens à partir de 987. Leur pouvoir s'affirma progressivement autour du domaine royal."
+  },
+  {
+    "id": "his-121",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quel système social et politique domina une grande partie du Moyen Âge occidental ?",
+    "choix": [
+      "La féodalité",
+      "La démocratie directe",
+      "Le bonapartisme",
+      "Le communisme"
+    ],
+    "reponse": 0,
+    "explication": "La féodalité reposait sur des liens de dépendance entre seigneurs, vassaux et paysans. Elle structura largement la société médiévale."
+  },
+  {
+    "id": "his-122",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Comment appelle-t-on les grands édifices religieux construits dans les villes médiévales, souvent dans le style gothique ?",
+    "choix": [
+      "Des abbayes fortifiées",
+      "Des cathédrales",
+      "Des amphithéâtres",
+      "Des palais consulaires"
+    ],
+    "reponse": 1,
+    "explication": "Les cathédrales sont les églises principales des diocèses. Au Moyen Âge, le style gothique permit d'élever de vastes édifices lumineux."
+  },
+  {
+    "id": "his-123",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "En quelle année commença la construction de la cathédrale Notre-Dame de Paris ?",
+    "choix": [
+      "1147",
+      "1154",
+      "1163",
+      "1180"
+    ],
+    "reponse": 2,
+    "explication": "La construction de Notre-Dame de Paris commença en 1163. Le chantier se poursuivit pendant près de deux siècles."
+  },
+  {
+    "id": "his-124",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quel pape appela à la première croisade au concile de Clermont en 1095 ?",
+    "choix": [
+      "Léon IX",
+      "Grégoire VII",
+      "Innocent III",
+      "Urbain II"
+    ],
+    "reponse": 3,
+    "explication": "Urbain II lança l'appel à la première croisade en 1095 à Clermont. Cet appel entraîna une expédition militaire vers Jérusalem."
+  },
+  {
+    "id": "his-125",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quel roi de France est aussi connu sous le nom de Saint Louis ?",
+    "choix": [
+      "Louis IX",
+      "Louis VI",
+      "Louis XI",
+      "Louis XIII"
+    ],
+    "reponse": 0,
+    "explication": "Saint Louis est le nom donné à Louis IX. Il régna au XIIIe siècle et fut canonisé après sa mort."
+  },
+  {
+    "id": "his-126",
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "question": "Dans quelle ville Louis IX mourut-il en 1270 lors d'une croisade ?",
+    "choix": [
+      "Acre",
+      "Tunis",
+      "Jérusalem",
+      "Damiette"
+    ],
+    "reponse": 1,
+    "explication": "Louis IX mourut à Tunis en 1270 pendant la huitième croisade. Sa mort renforça son image de roi chrétien exemplaire."
+  },
+  {
+    "id": "his-127",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quel roi de France remporta la bataille de Bouvines en 1214 ?",
+    "choix": [
+      "Louis VIII",
+      "Jean le Bon",
+      "Philippe Auguste",
+      "Charles V"
+    ],
+    "reponse": 2,
+    "explication": "Philippe Auguste remporta la bataille de Bouvines en 1214. Cette victoire renforça considérablement l'autorité royale en France."
+  },
+  {
+    "id": "his-128",
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "question": "Contre quel roi d'Angleterre Philippe Auguste lutta-t-il longuement au début du XIIIe siècle ?",
+    "choix": [
+      "Henri V",
+      "Édouard III",
+      "Richard III",
+      "Jean sans Terre"
+    ],
+    "reponse": 3,
+    "explication": "Philippe Auguste affronta Jean sans Terre et lui enleva une grande partie de ses possessions continentales. Cette lutte renforça le domaine royal français."
+  },
+  {
+    "id": "his-129",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quel conflit opposa durablement les royaumes de France et d'Angleterre de 1337 à 1453 ?",
+    "choix": [
+      "La guerre de Cent Ans",
+      "La Fronde",
+      "La guerre de Trente Ans",
+      "La Ligue d'Augsbourg"
+    ],
+    "reponse": 0,
+    "explication": "La guerre de Cent Ans opposa principalement la France et l'Angleterre entre 1337 et 1453. Elle fut marquée par des crises dynastiques, militaires et sociales."
+  },
+  {
+    "id": "his-130",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quelle héroïne contribua à la levée du siège d'Orléans en 1429 ?",
+    "choix": [
+      "Aliénor d'Aquitaine",
+      "Jeanne d'Arc",
+      "Catherine de Médicis",
+      "Anne de Bretagne"
+    ],
+    "reponse": 1,
+    "explication": "Jeanne d'Arc joua un rôle décisif dans la levée du siège d'Orléans en 1429. Cet événement relança le camp de Charles VII."
+  },
+  {
+    "id": "his-131",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quel roi fut conduit à Reims pour être sacré grâce à l'action de Jeanne d'Arc ?",
+    "choix": [
+      "Charles VI",
+      "Louis XI",
+      "Charles VII",
+      "François Ier"
+    ],
+    "reponse": 2,
+    "explication": "Jeanne d'Arc conduisit Charles VII vers Reims, où il fut sacré en 1429. Ce sacre renforça sa légitimité face aux Anglais et aux Bourguignons."
+  },
+  {
+    "id": "his-132",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "En quelle année Jeanne d'Arc fut-elle brûlée à Rouen ?",
+    "choix": [
+      "1428",
+      "1429",
+      "1430",
+      "1431"
+    ],
+    "reponse": 3,
+    "explication": "Jeanne d'Arc fut brûlée vive à Rouen en 1431 après un procès politique et religieux. Elle fut réhabilitée en 1456."
+  },
+  {
+    "id": "his-133",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quelle période culturelle et artistique se développa en France au XVIe siècle sous l'influence italienne ?",
+    "choix": [
+      "La Renaissance",
+      "Le romantisme",
+      "Le classicisme",
+      "La Belle Époque"
+    ],
+    "reponse": 0,
+    "explication": "La Renaissance se développa en France au XVIe siècle, notamment sous l'influence de l'Italie. Elle toucha les arts, les sciences et les lettres."
+  },
+  {
+    "id": "his-134",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quel roi de France remporta la bataille de Marignan en 1515 ?",
+    "choix": [
+      "Henri II",
+      "François Ier",
+      "Charles IX",
+      "Henri III"
+    ],
+    "reponse": 1,
+    "explication": "François Ier remporta la bataille de Marignan en 1515. Cette victoire est l'un des repères célèbres du début de son règne."
+  },
+  {
+    "id": "his-135",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quel artiste et savant italien François Ier invita-t-il en France à la fin de sa vie ?",
+    "choix": [
+      "Michel-Ange",
+      "Raphaël",
+      "Léonard de Vinci",
+      "Le Titien"
+    ],
+    "reponse": 2,
+    "explication": "François Ier invita Léonard de Vinci en France en 1516. Léonard vécut au Clos Lucé, près d'Amboise, jusqu'à sa mort en 1519."
+  },
+  {
+    "id": "his-136",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quel château de la Loire est particulièrement associé à François Ier et à la Renaissance française ?",
+    "choix": [
+      "Chinon",
+      "Blois",
+      "Azay-le-Rideau",
+      "Chambord"
+    ],
+    "reponse": 3,
+    "explication": "Le château de Chambord est étroitement associé à François Ier. Sa construction commença en 1519 et illustre l'architecture de la Renaissance."
+  },
+  {
+    "id": "his-137",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quelle ordonnance de 1539 imposa le français dans les actes administratifs et judiciaires du royaume ?",
+    "choix": [
+      "L'ordonnance de Villers-Cotterêts",
+      "L'édit de Nantes",
+      "L'ordonnance de Blois",
+      "L'édit de Fontainebleau"
+    ],
+    "reponse": 0,
+    "explication": "L'ordonnance de Villers-Cotterêts fut signée en 1539 par François Ier. Elle imposa notamment l'usage du français dans les actes de justice et d'administration."
+  },
+  {
+    "id": "his-138",
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "question": "Quel autre effet important de l'ordonnance de Villers-Cotterêts concerne les registres paroissiaux ?",
+    "choix": [
+      "Elle supprima les impôts seigneuriaux",
+      "Elle rendit obligatoire l'enregistrement des baptêmes",
+      "Elle interdit les universités provinciales",
+      "Elle créa les intendants du royaume"
+    ],
+    "reponse": 1,
+    "explication": "L'ordonnance de Villers-Cotterêts imposa la tenue de registres de baptêmes par les paroisses. Cette mesure est importante pour l'histoire de l'état civil en France."
+  },
+  {
+    "id": "his-139",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quels groupes s'affrontèrent principalement pendant les guerres de Religion en France ?",
+    "choix": [
+      "Royalistes et bonapartistes",
+      "Jacobins et girondins",
+      "Catholiques et protestants",
+      "Capétiens et Carolingiens"
+    ],
+    "reponse": 2,
+    "explication": "Les guerres de Religion opposèrent principalement catholiques et protestants, appelés aussi huguenots. Elles déchirèrent le royaume dans la seconde moitié du XVIe siècle."
+  },
+  {
+    "id": "his-140",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quel massacre de protestants commença à Paris le 24 août 1572 ?",
+    "choix": [
+      "La Terreur blanche",
+      "La journée des Barricades",
+      "Le massacre de Wassy",
+      "La Saint-Barthélemy"
+    ],
+    "reponse": 3,
+    "explication": "Le massacre de la Saint-Barthélemy commença à Paris dans la nuit du 23 au 24 août 1572. Il s'étendit ensuite à plusieurs villes du royaume."
+  },
+  {
+    "id": "his-141",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quel roi promulgua l'édit de Nantes en 1598 ?",
+    "choix": [
+      "Henri IV",
+      "Louis XIII",
+      "François II",
+      "Charles IX"
+    ],
+    "reponse": 0,
+    "explication": "Henri IV promulgua l'édit de Nantes en 1598. Cet édit accordait des droits aux protestants et visait à pacifier le royaume."
+  },
+  {
+    "id": "his-142",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quelle formule est souvent associée à la conversion d'Henri IV au catholicisme ?",
+    "choix": [
+      "L'État, c'est moi",
+      "Paris vaut bien une messe",
+      "Impossible n'est pas français",
+      "Après moi, le déluge"
+    ],
+    "reponse": 1,
+    "explication": "La formule « Paris vaut bien une messe » est traditionnellement associée à Henri IV, même si son authenticité est discutée. Sa conversion facilita son acceptation comme roi."
+  },
+  {
+    "id": "his-143",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quel roi révoqua l'édit de Nantes par l'édit de Fontainebleau ?",
+    "choix": [
+      "Louis XIII",
+      "Henri III",
+      "Louis XIV",
+      "Louis XV"
+    ],
+    "reponse": 2,
+    "explication": "Louis XIV révoqua l'édit de Nantes en 1685 par l'édit de Fontainebleau. Cette décision mit fin à la tolérance légale accordée aux protestants."
+  },
+  {
+    "id": "his-144",
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "question": "En quelle année Henri IV fut-il assassiné par Ravaillac ?",
+    "choix": [
+      "1601",
+      "1607",
+      "1615",
+      "1610"
+    ],
+    "reponse": 3,
+    "explication": "Henri IV fut assassiné à Paris par François Ravaillac en 1610. Son fils Louis XIII lui succéda alors sous la régence de Marie de Médicis."
+  },
+  {
+    "id": "his-145",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quel cardinal fut le principal ministre de Louis XIII ?",
+    "choix": [
+      "Richelieu",
+      "Mazarin",
+      "Fleury",
+      "Colbert"
+    ],
+    "reponse": 0,
+    "explication": "Le cardinal de Richelieu devint le principal ministre de Louis XIII en 1624. Il renforça l'autorité de l'État royal."
+  },
+  {
+    "id": "his-146",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quel objectif politique Richelieu poursuivit-il au service de Louis XIII ?",
+    "choix": [
+      "Rétablir l'empire carolingien",
+      "Renforcer l'autorité royale",
+      "Supprimer la monarchie",
+      "Installer une république"
+    ],
+    "reponse": 1,
+    "explication": "Richelieu chercha à renforcer l'autorité du roi face aux grands nobles et aux puissances rivales. Sa politique contribua à la centralisation de l'État."
+  },
+  {
+    "id": "his-147",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quel roi de France est surnommé le Roi-Soleil ?",
+    "choix": [
+      "Louis XII",
+      "Louis XIII",
+      "Louis XIV",
+      "Louis XVI"
+    ],
+    "reponse": 2,
+    "explication": "Louis XIV est surnommé le Roi-Soleil. Son règne personnel symbolise l'apogée de la monarchie absolue en France."
+  },
+  {
+    "id": "his-148",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "En quelle année Louis XIV installa-t-il officiellement la cour et le gouvernement à Versailles ?",
+    "choix": [
+      "1661",
+      "1672",
+      "1678",
+      "1682"
+    ],
+    "reponse": 3,
+    "explication": "Louis XIV installa officiellement la cour et le gouvernement à Versailles en 1682. Le château devint le centre politique de la monarchie française."
+  },
+  {
+    "id": "his-149",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quel château est devenu le symbole de la monarchie absolue de Louis XIV ?",
+    "choix": [
+      "Versailles",
+      "Fontainebleau",
+      "Compiègne",
+      "Vincennes"
+    ],
+    "reponse": 0,
+    "explication": "Le château de Versailles est le symbole le plus célèbre de la monarchie absolue de Louis XIV. Il servait à la fois de résidence royale et de centre du pouvoir."
+  },
+  {
+    "id": "his-150",
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "question": "Quel ministre de Louis XIV est associé au développement des manufactures et du mercantilisme ?",
+    "choix": [
+      "Vauban",
+      "Colbert",
+      "Louvois",
+      "Sully"
+    ],
+    "reponse": 1,
+    "explication": "Jean-Baptiste Colbert fut contrôleur général des finances de Louis XIV. Il favorisa les manufactures, le commerce et une politique économique mercantiliste."
+  },
+  {
+    "id": "his-151",
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "question": "À partir de quelle année Louis XIV gouverna-t-il personnellement sans principal ministre ?",
+    "choix": [
+      "1643",
+      "1654",
+      "1661",
+      "1682"
+    ],
+    "reponse": 2,
+    "explication": "Louis XIV gouverna personnellement à partir de 1661, après la mort de Mazarin. Il choisit de ne pas reprendre de principal ministre."
+  },
+  {
+    "id": "his-152",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quel mouvement intellectuel du XVIIIe siècle défendit la raison, le progrès et la critique des abus ?",
+    "choix": [
+      "La Contre-Réforme",
+      "La chevalerie",
+      "L'humanisme médiéval",
+      "Les Lumières"
+    ],
+    "reponse": 3,
+    "explication": "Les Lumières furent un mouvement intellectuel majeur du XVIIIe siècle. Les philosophes y valorisaient la raison, les sciences et la critique des injustices."
+  },
+  {
+    "id": "his-153",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quel philosophe des Lumières est célèbre pour sa défense de la tolérance et sa critique du fanatisme ?",
+    "choix": [
+      "Voltaire",
+      "Bossuet",
+      "Rabelais",
+      "Calvin"
+    ],
+    "reponse": 0,
+    "explication": "Voltaire défendit la tolérance religieuse et combattit le fanatisme. Son action dans l'affaire Calas est souvent citée comme exemple."
+  },
+  {
+    "id": "his-154",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quel penseur des Lumières développa l'idée de séparation des pouvoirs ?",
+    "choix": [
+      "Diderot",
+      "Montesquieu",
+      "Condorcet",
+      "Beaumarchais"
+    ],
+    "reponse": 1,
+    "explication": "Montesquieu développa la théorie de la séparation des pouvoirs, notamment dans De l'esprit des lois publié en 1748. Cette idée influença durablement les régimes constitutionnels."
+  },
+  {
+    "id": "his-155",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quel ouvrage collectif du XVIIIe siècle fut dirigé notamment par Diderot et d'Alembert ?",
+    "choix": [
+      "Le Contrat social",
+      "Les Lettres persanes",
+      "L'Encyclopédie",
+      "Les Provinciales"
+    ],
+    "reponse": 2,
+    "explication": "L'Encyclopédie fut dirigée par Diderot et d'Alembert. Elle cherchait à rassembler et diffuser les connaissances de son temps."
+  },
+  {
+    "id": "his-156",
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "question": "Quel philosophe publia Du contrat social en 1762 ?",
+    "choix": [
+      "Voltaire",
+      "Montesquieu",
+      "Diderot",
+      "Rousseau"
+    ],
+    "reponse": 3,
+    "explication": "Jean-Jacques Rousseau publia Du contrat social en 1762. L'ouvrage réfléchit à la souveraineté du peuple et à la légitimité politique."
+  },
+  {
+    "id": "his-157",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Sous l'Ancien Régime, quels étaient les trois ordres de la société française ?",
+    "choix": [
+      "Clergé, noblesse et tiers état",
+      "Bourgeoisie, armée et paysans",
+      "Juges, marchands et artisans",
+      "Roi, ministres et intendants"
+    ],
+    "reponse": 0,
+    "explication": "La société d'Ancien Régime était officiellement divisée en trois ordres : le clergé, la noblesse et le tiers état. Le tiers état regroupait la majorité de la population."
+  },
+  {
+    "id": "his-158",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Quel ordre de l'Ancien Régime regroupait la majorité de la population ?",
+    "choix": [
+      "Le clergé",
+      "Le tiers état",
+      "La noblesse",
+      "La chevalerie"
+    ],
+    "reponse": 1,
+    "explication": "Le tiers état regroupait l'immense majorité des Français, des paysans aux bourgeois. Le clergé et la noblesse formaient les deux ordres privilégiés."
+  },
+  {
+    "id": "his-159",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quel roi convoqua les États généraux qui s'ouvrirent en mai 1789 ?",
+    "choix": [
+      "Louis XV",
+      "Louis XIV",
+      "Louis XVI",
+      "Charles X"
+    ],
+    "reponse": 2,
+    "explication": "Louis XVI convoqua les États généraux pour tenter de résoudre la crise financière et politique du royaume. Ils s'ouvrirent à Versailles le 5 mai 1789."
+  },
+  {
+    "id": "his-160",
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "question": "Depuis quelle année les États généraux n'avaient-ils pas été réunis avant leur convocation pour 1789 ?",
+    "choix": [
+      "1610",
+      "1648",
+      "1715",
+      "1614"
+    ],
+    "reponse": 3,
+    "explication": "Les États généraux n'avaient pas été réunis depuis 1614. Leur convocation en 1789 marqua donc un événement politique exceptionnel."
+  },
+  {
+    "id": "his-161",
+    "theme": "histoire",
+    "difficulte": "facile",
+    "question": "Dans quelle ville les États généraux de 1789 s'ouvrirent-ils ?",
+    "choix": [
+      "Versailles",
+      "Paris",
+      "Reims",
+      "Orléans"
+    ],
+    "reponse": 0,
+    "explication": "Les États généraux s'ouvrirent à Versailles le 5 mai 1789. Le roi et la cour y résidaient alors."
+  },
+  {
+    "id": "his-162",
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "question": "Quel problème financier pesa fortement sur la décision de convoquer les États généraux en 1789 ?",
+    "choix": [
+      "La faillite des banques italiennes",
+      "L'endettement de l'État royal",
+      "La disparition de la monnaie",
+      "La suppression des impôts"
+    ],
+    "reponse": 1,
+    "explication": "La monarchie française faisait face à un endettement très important et à une crise fiscale. Cette situation poussa Louis XVI à convoquer les États généraux."
+  },
+  {
+    "id": "his-163",
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "question": "Quel ministre des finances populaire fut rappelé par Louis XVI avant l'ouverture des États généraux ?",
+    "choix": [
+      "Turgot",
+      "Calonne",
+      "Necker",
+      "Colbert"
+    ],
+    "reponse": 2,
+    "explication": "Jacques Necker fut rappelé par Louis XVI en 1788, avant l'ouverture des États généraux. Sa popularité auprès de l'opinion était importante."
+  },
+  {
+    "id": "his-164",
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "question": "Quel document les Français furent invités à rédiger en 1789 pour exprimer leurs doléances ?",
+    "choix": [
+      "Les ordonnances royales",
+      "Les capitulaires impériaux",
+      "Les lettres de cachet",
+      "Les cahiers de doléances"
+    ],
+    "reponse": 3,
+    "explication": "En 1789, les Français furent invités à rédiger des cahiers de doléances. Ces textes recueillaient plaintes, demandes et propositions adressées au roi."
+  },
+  {
+    "id": "his-165",
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "question": "Quel principe de vote opposa fortement le tiers état aux ordres privilégiés lors des États généraux ?",
+    "choix": [
+      "Le vote par ordre",
+      "Le suffrage universel féminin",
+      "Le scrutin proportionnel",
+      "Le référendum local"
+    ],
+    "reponse": 0,
+    "explication": "Le vote par ordre donnait une voix à chacun des trois ordres, ce qui favorisait le clergé et la noblesse. Le tiers état réclamait plutôt le vote par tête."
+  }
+]
