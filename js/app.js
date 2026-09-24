@@ -4,7 +4,6 @@
 (function () {
   'use strict';
 
-  var DATA_URL = 'data/questions.json';
   var DIFFS = ['facile', 'moyen', 'difficile'];
   var DIFF_LABEL = { facile: 'Facile', moyen: 'Moyen', difficile: 'Difficile' };
   var LETTERS = ['A', 'B', 'C', 'D'];
@@ -55,23 +54,13 @@
   /* ---------------- chargement ---------------- */
 
   function load() {
-    // 1) Banque injectée par data/questions.js : fonctionne aussi en file://
-    if (window.BANQUE_QUESTIONS) {
+    // La banque est injectée par data/questions.js : fonctionne aussi en file://
+    if (window.BANQUE_QUESTIONS && window.BANQUE_QUESTIONS.questions) {
       install(window.BANQUE_QUESTIONS);
       return;
     }
-    // 2) Repli sur le JSON si l'application est servie en HTTP
-    fetch(DATA_URL, { cache: 'no-store' })
-      .then(function (r) {
-        if (!r.ok) throw new Error('HTTP ' + r.status);
-        return r.json();
-      })
-      .then(install)
-      .catch(function (err) {
-        console.error(err);
-        el['load-error'].hidden = false;
-        el['btn-start'].disabled = true;
-      });
+    el['load-error'].hidden = false;
+    el['btn-start'].disabled = true;
   }
 
   function install(json) {
